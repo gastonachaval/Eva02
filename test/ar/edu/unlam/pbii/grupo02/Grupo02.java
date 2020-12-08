@@ -4,13 +4,6 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import ar.edu.unlam.pbii.grupo01.Cliente;
-import ar.edu.unlam.pbii.grupo01.ClienteCable;
-import ar.edu.unlam.pbii.grupo01.ClienteTelefonia;
-import ar.edu.unlam.pbii.grupo01.Empresa;
-import ar.edu.unlam.pbii.grupo01.Premium;
-import ar.edu.unlam.pbii.grupo02.Auto;
-import ar.edu.unlam.pbii.grupo02.Moto;
 
 public class Grupo02 {
 
